@@ -1,0 +1,35 @@
+<resources>
+    <!-- Common - Start -->
+    <string name="app_name">Weather</string>
+    <string name="app_back_button_description">Tap to navigate back.</string>
+    <string name="app_network_toast_1">Network is available.</string>
+    <string name="app_network_toast_2">Network is lost.</string>
+    <!-- Common - End -->
+
+    <!-- Home - Start -->
+    <string name="home_floating_location_button_description">Tap to locate your position</string>
+    <string name="home_floating_add_button_description">Tap to add your position</string>
+    <string name="home_floating_add_button_toast_1">Please locate your position first.</string>
+    <string name="home_floating_add_button_toast_2">Cannot add: too close to an existing location.</string>
+    <string name="home_floating_refresh_button_description">Tap to refresh all forecasts</string>
+    <string name="home_location_permission_handler_tip_1">Getting your location is important for this app.\nPlease allow access to your precise location. Thank you!</string>
+    <string name="home_location_permission_handler_tip_2">Thanks for allowing this app to access your approximate location.\nFor a better experience, you can grant access to your precise location as well.</string>
+    <string name="home_location_permission_handler_button_1">Request location permissions</string>
+    <string name="home_location_permission_handler_button_2">Allow precise location</string>
+    <string name="home_weather_latitude">Latitude: %.6f</string>
+    <string name="home_weather_longitude">Longitude: %.6f</string>
+    <string name="home_weather_accuracy">Accuracy: %.2f</string>
+    <string name="home_weather_address">Address: %s</string>
+    <string name="home_weather_elevation">Elevation: %.2f</string>
+    <string name="home_weather_temperature">Temperature: %.1f °C</string>
+    <string name="home_weather_apparent_temperature">Apparent temperature: %.1f °C</string>
+    <string name="home_weather_time">Time: %s</string>
+    <string name="home_weather_description">Description: %s</string>
+    <!-- Home - End -->
+
+    <!-- AddLocation - Start -->
+    <string name="add_location_title">Add a location</string>
+    <string name="add_location_marker_description">A marker indicating the location you picked</string>
+    <string name="add_location_marker_toast">Tap the marker to add your location.</string>
+    <!-- AddLocation - End -->
+</resources>
